@@ -23,11 +23,11 @@ export default function Footer() {
       </nav>
       <p>
         A efood é uma plataforma para divulgação de estabelecimentos, a
-        responsabilidade pela entrega, qualidade dos produtos é toda do
+        responsabilidade pela entrega, qualidade dos produtos é inteiramente do
         estabelecimento contratado.
       </p>{' '}
       <br />
-      <p>&copy; 2024, Todos os direitos reservados. Ana Alice Rodrigues</p>
+      <p>&copy; 2025, Gustavo Cronemberger. Todos os direitos reservados.</p>
     </FooterContainer>
   )
 }
