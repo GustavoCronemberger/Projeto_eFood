@@ -113,7 +113,7 @@
 <section id="contato">
     <h2>Contato</h2>
     <ul>
-        <li><a href="" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"></a></li>
+        <li><a href="https://projeto-e-food-zeta.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"></a></li>
     </ul>
     <p>Acesse o projeto na Vercel para ver o eFood Clone em ação.</p>
 </section>
