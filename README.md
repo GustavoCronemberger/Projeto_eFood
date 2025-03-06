@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Clone do Efood">
+    <meta name="description" content="Clone eFood">
     <meta name="keywords" content="React, Redux, TypeScript, Styled Components">
-    <meta name="author" content="Ana Alice Rodrigues">
+    <meta name="author" content="Gustavo Cronemberger">
 
 </head>
 <body>
 
 <header>
-    <h1>Efood Clone</h1>
+    <h1>eFood Clone</h1>
     <img src="./src/assets/img/fachada01.png" alt="01" width="300" height="auto">
     <img src="./src/assets/img/fachada02.png" alt="02" width="300" height="auto">
 </header>
@@ -30,7 +30,7 @@
 
 <section id="sobre-o-projeto">
     <h2>Sobre o projeto</h2>
-    <p>O projeto Efood Clone é uma réplica de uma plataforma de pedidos online, oferecendo uma experiência de compra conveniente e eficiente. A aplicação permite a navegação por diversos produtos, adicionando-os ao carrinho de compras e finalizando o pedido com facilidade.</p>
+    <p>O projeto eFood Clone é uma réplica de uma plataforma de pedidos online, oferecendo uma experiência de compra conveniente e eficiente. A aplicação permite a navegação por diversos produtos, adicionando-os ao carrinho de compras e finalizando o pedido com facilidade.</p>
     <p>Proposta de Valor: Oferecer uma experiência de compra conveniente, com uma seleção diversificada de produtos, facilidade de navegação e processos de compra e entrega eficientes.</p>
 </section>
 
@@ -38,7 +38,7 @@
     <h2>Parte Técnica</h2>
     <ul>
         <li>Frontend: Utiliza React, React Router, Redux, TypeScript, Styled Components para criar uma interface moderna, responsiva e interativa.</li>
-        <li>Backend: Utiliza uma API RESTful para gerenciar dados de usuários, produtos e pedidos.</li>
+        <li>Backend: Através do Node.js utiliza uma API RESTful para gerenciar dados de usuários, produtos e pedidos.</li>
         <li>Ferramentas de Desenvolvimento: Utiliza ESLint e Prettier para garantir a qualidade do código e mantê-lo consistente.</li>
     </ul>
 </section>
@@ -113,10 +113,9 @@
 <section id="contato">
     <h2>Contato</h2>
     <ul>
-        <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li>
-        <li><a href="https://efood-kappa-five.vercel.app/ " target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"></a></li>
+        <li><a href="" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"></a></li>
     </ul>
-    <p>Acesse o projeto na Vercel para ver o Efood Clone em ação.</p>
+    <p>Acesse o projeto na Vercel para ver o eFood Clone em ação.</p>
 </section>
 
 </body>
